@@ -1,0 +1,48 @@
+# https://gohugo.io/configuration/
+# https://gokarna-hugo.netlify.app/posts/theme-documentation-basics/
+# https://gokarna-hugo.netlify.app/posts/theme-documentation-advanced/
+baseURL: https://moreati.org.uk
+copyright: Alex Willmer
+defaultContentLanguage: en-gb
+languageCode: en
+theme: gokarna
+title: Misspelled Nemesis Club
+
+markup:
+  goldmark:
+    extensions:
+      extras:
+        delete:
+          enable: true
+        insert:
+          enable: true
+        subscript:      # H~2~O
+          enable: true
+        superscript:    # 1^st^
+          enable: true
+      strikethrough: false
+
+menus:
+  main:
+    - name: Blog
+      url: /blog
+
+params:
+  avatarURL: /assets/images/profile.jpg
+  dateFormat: 2 Jan 2006
+  description:
+    Homepage and blog of Alex Willmer.
+  showPostsOnHomePage: recent
+  socialIcons:
+    - {name: mastodon, url: https://social.moreati.org.uk/@alex}
+    - {name: github, url: https://github.com/moreati}
+    #- {name: bluesky, url: https://bsky.app/profile/alex.moreati.org.uk}
+  togglePreviousAndNextButtons: true
+
+permalinks:
+  page:
+    blog: /blog/:year/:month/:day/:slugorcontentbasename
+
+privacy:
+  youTube:
+    privacyEnhanced: true
