@@ -19,7 +19,9 @@ individually in a known hierarchy. The pyramid generation is similar to
 satellite or aerial photography, a scanned map, a legal document,
 medical imagery (e.g. a smear test or x-ray) or any highly detailed
 photograph. Deep Zoom joins a collection of platforms and technologies
-that perform a similar role, which I'll briefly summarise.<!--more-->
+that perform a similar role, which I'll briefly summarise.
+
+<!--more-->
 
 IIPImage
 --------

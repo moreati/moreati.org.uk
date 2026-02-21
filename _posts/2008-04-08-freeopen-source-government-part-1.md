@@ -34,7 +34,9 @@ on a common theme
     weight.
 
 The theme is how the Free/Open Source software movement might aid the
-political establishment.<!--more-->
+political establishment.
+
+<!--more-->
 
 ### Civil Service
 

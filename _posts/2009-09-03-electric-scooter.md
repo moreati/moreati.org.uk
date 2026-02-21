@@ -119,98 +119,27 @@ not the only costs to be budgeted for. You should budget at least £500,
 for protective clothing and ancillary items. The following one off costs
 are compulsory or highly advisable:
 
-<table>
-<col width="21%" />
-<col width="65%" />
-<col width="13%" />
-<thead>
-<tr class="header">
-<th align="left">Item</th>
-<th align="left">Description</th>
-<th align="left">Price range</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">Helmet</td>
-<td align="left">Required by law for protection. A proper fit is essential, so be fitted in person by somebody experienced. Don't buy second hand or by mail order. Price alone does not determine level of protection.</td>
-<td align="left">£50 - £500+</td>
-</tr>
-<tr class="even">
-<td align="left">Number plate</td>
-<td align="left">Required by law. Must adhere to regulation size/lettering. Proof of registration required</td>
-<td align="left">£10 - £20</td>
-</tr>
-<tr class="odd">
-<td align="left">Tax disc holder</td>
-<td align="left">Required to display tax disc</td>
-<td align="left">£15 - £20</td>
-</tr>
-<tr class="even">
-<td align="left">Gloves</td>
-<td align="left">Strongly Advised for comfort and protection. Sturdy leather on the palms and fingers is important</td>
-<td align="left">£10 - £80</td>
-</tr>
-<tr class="odd">
-<td align="left">Jacket</td>
-<td align="left">Advised for comfort and protection. Leather or polyester fabric with 'CE armour' shoulder and elbow pads. Some have thermal and waterproof lining</td>
-<td align="left">£60 - £300+</td>
-</tr>
-<tr class="even">
-<td align="left">CBT</td>
-<td align="left">Compulsory Basic Training required by law unless a pre-2001 car licence holder, but then still strongly advised. Lasts 1 day, teaches the basics</td>
-<td align="left">£90 - £120</td>
-</tr>
-<tr class="odd">
-<td align="left">Trousers</td>
-<td align="left">Advised for comfort and protection. Leather or polyester, with 'CE armour' knee pads and padding. Some have thermal and waterproof lining</td>
-<td align="left">£45 - £250</td>
-</tr>
-<tr class="even">
-<td align="left">Boots</td>
-<td align="left">Advised for protection and comfort. Leather with reinforced ankle and sole, waterproof.</td>
-<td align="left">£50 - £180+</td>
-</tr>
-<tr class="odd">
-<td align="left">Chain/lock</td>
-<td align="left">Advised, to deter thieves. A chain/padlock and/or disc-lock. Sold Secure or Thatcham approved ones may reduce insurance.</td>
-<td align="left">£20 - £150+</td>
-</tr>
-<tr class="even">
-<td align="left">Ground anchor</td>
-<td align="left">Optional. Provides a secure attachment point for a chain. Sold Secure or Thatcham approved ones may reduce insurance.</td>
-<td align="left">£10 - £150</td>
-</tr>
-</tbody>
-</table>
+| Item | Description | Price range |
+| :-- | :-- | :-- |
+| Helmet | Required by law for protection. A proper fit is essential, so be fitted in person by somebody experienced. Don't buy second hand or by mail order. Price alone does not determine level of protection. | £50 - £500+ |
+| Number plate | Required by law. Must adhere to regulation size/lettering. Proof of registration required | £10 - £20 |
+| Tax disc holder | Required to display tax disc | £15 - £20 |
+| Gloves | Strongly Advised for comfort and protection. Sturdy leather on the palms and fingers is important | £10 - £80 |
+| Jacket | Advised for comfort and protection. Leather or polyester fabric with 'CE armour' shoulder and elbow pads. Some have thermal and waterproof lining | £60 - £300+ |
+| CBT | Compulsory Basic Training required by law unless a pre-2001 car licence holder, but then still strongly advised. Lasts 1 day, teaches the basics | £90 - £120 |
+| Trousers | Advised for comfort and protection. Leather or polyester, with 'CE armour' knee pads and padding. Some have thermal and waterproof lining | £45 - £250 |
+| Boots | Advised for protection and comfort. Leather with reinforced ankle and sole, waterproof. | £50 - £180+ |
+| Chain/lock | Advised, to deter thieves. A chain/padlock and/or disc-lock. Sold Secure or Thatcham approved ones may reduce insurance. | £20 - £150+ |
+| Ground anchor | Optional. Provides a secure attachment point for a chain. Sold Secure or Thatcham approved ones may reduce insurance. | £10 - £150 |
 
 Items other than the helmet could be bought second hand, to bring down
 the cost. The following recurring costs must also be budgeted for:
 
-<table>
-<col width="13%" />
-<col width="57%" />
-<col width="28%" />
-<thead>
-<tr class="header">
-<th align="left">Item</th>
-<th align="left">Description</th>
-<th align="left">Price range</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">Insurance</td>
-<td align="left">Required by law. Price is highly variable. Claim history, address and other factors determine price. Car NCD usually doesn't transfer.</td>
-<td align="left">£100+ / year</td>
-</tr>
-<tr class="even">
-<td align="left">Batteries</td>
-<td align="left">Necessary. To replace worn out lead acid cells.</td>
-<td align="left">£XXX / 500 full charges</td>
-</tr>
-</tbody>
-</table>
+| Item | Description | Price range |
+| --- | --- | --- |
+| Insurance | Required by law. Price is highly variable. Claim history, address and other factors determine price. Car NCD usually doesn't transfer. | £100+ / year |
+| Batteries | Necessary. To replace worn out lead acid cells. | £XXX / 500 full charges |
+
 
 Electric Scooter Tips
 ---------------------

@@ -70,25 +70,25 @@ tank-to-wheel. The same electric cars emitted 131 and 140 g/km charged
 from coal. I compared Mike's numbers to my own to arrive at the
 following tables:
 
-|---|:--|:--|:--|
-||REVA G-Wiz|Mitsubishi i-Miev|BMW Mini-E|
-|Distance travelled (km)|22.6|22.6|100.0|
-|Electricity used (kWh)|2.99|3.19|20.63|
-|Electrical eff. (kWh/km)|0.13|0.14|0.21|
-|Elec. Emissions, grid (g/kWh CO<sub>2</sub>)|375.2|351.2||
-|Elec. Emissions, coal (g/kWh CO<sub>2</sub>)|1056.2|927.9|1028.8|
-|Car emissions, grid (g/km CO<sub>2</sub>)|49.7|49.7||
-|Car emissions, coal (g/km CO<sub>2</sub>)|140.0|131.2|212.2|
+| |REVA G-Wiz | Mitsubishi i-Miev | BMW Mini-E |
+| --- | :-- | :-- | :-- |
+| Distance travelled (km) | 22.6 | 22.6 | 100.0 |
+| Electricity used (kWh) | 2.99 | 3.19 | 20.63 |
+| Electrical eff. (kWh/km) | 0.13 | 0.14 | 0.21 |
+| Elec. Emissions, grid (g/kWh CO<sub>2</sub>) | 375.2 | 351.2 | |
+| Elec. Emissions, coal (g/kWh CO<sub>2</sub>) | 1056.2 | 927.9 | 1028.8 |
+| Car emissions, grid (g/km CO<sub>2</sub>) | 49.7 | 49.7 | |
+| Car emissions, coal (g/km CO<sub>2</sub>) | 140.0 | 131.2 | 212.2 |
 
-|---|:--|:--|:--|
-||Toyota Aygo|Fiat Panda|Ford Sport Ka|
-|Distance travelled (km)|22.6|22.6|492.4|
-|Fuel used (l)|1.33|1.51|37.60|
-|Fuel eff. (l/km)|0.059|0.067|0.076|
-|Fuel emissions, ttw (g/l CO<sub>2</sub>)|2315.0|2314.9|2246.0|
-|Fuel emissions, wtw (g/l CO<sub>2</sub>)|2789.6|2789.4||
-|Emissions, ttw (g/km CO<sub>2</sub>)|136.5|154.9|171.5|
-|Emissions, wtw (g/km CO<sub>2</sub>)|164.5|186.7||
+| |Toyota Aygo | Fiat Panda | Ford Sport Ka |
+| --- | :-- | :-- | :-- |
+| Distance travelled (km) | 22.6 | 22.6 | 492.4 |
+| Fuel used (l) | 1.33 | 1.51 | 37.60 |
+| Fuel eff. (l/km) | 0.059 | 0.067 | 0.076 |
+| Fuel emissions, ttw (g/l CO<sub>2</sub>) | 2315.0 | 2314.9 | 2246.0 |
+| Fuel emissions, wtw (g/l CO<sub>2</sub>) | 2789.6 | 2789.4 | |
+| Emissions, ttw (g/km CO<sub>2</sub>) | 136.5 | 154.9 | 171.5 |
+| Emissions, wtw (g/km CO<sub>2</sub>) | 164.5 | 186.7 | |
 
 The difference came down to how many units of electricity (kilowatt
 hours/km) were used by the electric car. Not having one to test myself I

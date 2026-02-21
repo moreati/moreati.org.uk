@@ -13,7 +13,11 @@ many images, using ArcGIS Desktop or the sderaster command. ArcGIS
 Desktop is more flexible, it accepts many image formats and can resample
 images that don't perfectly align, but it's slow and struggles with
 large jobs. The sderaster command is faster and scriptable, but it
-accepts only tiffs and it's *very fussy* about them. <!--more--> What
+accepts only tiffs and it's *very fussy* about them.
+
+<!--more-->
+
+What
 follows are some notes that will remind me the next time and possibly
 help others.
 

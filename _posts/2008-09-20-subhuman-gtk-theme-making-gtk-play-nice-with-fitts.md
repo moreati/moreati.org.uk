@@ -17,7 +17,9 @@ down]({{ site.url }}/uploads/2008/09/pidgin-chat-after.png "pidgin-chat-after")]
 Although work in progress still, I think the window looks cleaner
 already. Most importantly the chat history scrollbar now lies flush with
 the window edge. To achieve this, I've created a customized gtkrc and
-made a small patch for pidgin. <!--more-->
+made a small patch for pidgin.
+
+<!--more-->
 
 ### GTK+ theming
 

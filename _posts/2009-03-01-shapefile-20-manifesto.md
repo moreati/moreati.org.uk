@@ -33,7 +33,11 @@ least common denominator. It is *the* format for storing and exchanging
 vector data between teams, departments, businesses and government. In my
 opinion this makes Shapefile the best thing ever to happen to GIS,
 without it the GIS market would be a fraction of it's current
-size.<!--more--> Despite it's popularity, Shapefile does have some
+size.
+
+<!--more-->
+
+Despite it's popularity, Shapefile does have some
 serious limitations, mainly due to it's DBF heritage:
 
 -   A shapefile is limited to <del>2</del> 4 GB or <del>65535</del> 4

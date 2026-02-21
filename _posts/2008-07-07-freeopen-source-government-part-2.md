@@ -32,7 +32,9 @@ In June this application was rejected by a Judge. On the 19th [UKUUG
 appealed](http://lists.ukuug.org/pipermail/announce/2008-June/000078.html),
 the BSI made no public comment. Unless it becomes public record in
 court, their reasoning will remain secret. This post isn't about the BSI
-or ISO 29500/OOXML.<!--more-->
+or ISO 29500/OOXML.
+
+<!--more-->
 
 ### Open Politics
 

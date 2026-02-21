@@ -24,7 +24,9 @@ meme](http://blogs.gnome.org/uraeus/2008/10/15/what-do-the-free-desktop-need-to-
 so lets to play. It's some number of years in the future. Ubuntu
 'Satisfied Squirrel' has built on slow, steady growth. Linux desktop
 share now nudges 20%. What might this *future* Linux desktop be like,
-compared to *now*? <!--more-->
+compared to *now*?
+
+<!--more-->
 
 ### Linux is too difficult to install
 
